@@ -44,6 +44,8 @@ Result = Result.replace(' day, ',':').replace(':',' ')
 print('Result:',Result)
 
 
+
+
 #先從日期開始解，再用24時區解
 #要怎麼編輯strp時間格式
 #想到直接合併string來帶入strp
